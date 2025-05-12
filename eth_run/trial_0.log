@@ -1,0 +1,17 @@
+
+#####
+
+Environment #0:
+<env_history.EnvironmentHistory object at 0x7fd70eb8cb50>
+
+STATUS: FAIL
+
+#####
+
+-----
+SUCCESS: 0
+ADDITIONAL SUCCESS: 0
+FAIL: 1
+TOTAL: 1
+ACCURACY: 0.0
+-----

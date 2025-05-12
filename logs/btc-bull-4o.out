@@ -1,0 +1,13 @@
+Namespace(dataset='btc', ending_date='2023-12-01', is_resume=False, model='gpt-4o', num_envs=1, num_trials=1, price_window=7, reflection_window=3, resume_dir='', run_name='eth_run', seed=6216, start_trial_num=0, starting_date='2023-10-01', to_print=1, use_memory=False, use_news=1, use_reflection=1, use_tech=1, use_txnstat=1)
+
+*** START STATE ***
+{'cash': 500000.0, 'eth_held': 18.540906709276292, 'open': 26967.3974331494, 'net_worth': 1000000.0, 'roi': 0.0, 'today_roi': 0.0, 'technical': {'macd_signal': 'sell'}, 'txnstat': {'unique_addresses': 1325936, 'total_size_used': 213952984554, 'average_fee': 0.0012732761796149386, 'total_transactions': 7291493, 'total_value_transferred': 96543710.67222372, 'coinbase_transactions': 423}, 'date': '2023-10-01T00:00:00.000Z'}
+*** END STATE ***
+
+You are an ETH cryptocurrency trading analyst. The recent price and auxiliary information is given in chronological order below:
+"""
+Open price: 26967.40, unique_addresses: 1325936, total_size_used: 213952984554, average_fee: 0.0012732761796149386, total_transactions: 7291493, total_value_transferred: 96543710.67222372, coinbase_transactions: 423, macd_signal: sell
+
+"""
+Write one concise paragraph to analyze the recent information and estimate the market trend accordingly.
+RetryError[<Future at 0x7fd4c37e6d30 state=finished raised RateLimitError>]
