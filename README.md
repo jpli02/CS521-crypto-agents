@@ -44,3 +44,8 @@ This outputs a file `./data/coingecko/<TOKEN>-<DATE>_articles.json`
   ``` 
   ./run_agent.sh
   ```
+
+## Reference
+Build on top of :
+[EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading https://aclanthology.org/2024.emnlp-main.63.pdf
+
