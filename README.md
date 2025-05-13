@@ -72,6 +72,11 @@ CRYPTOPANIC_KEY=9b8c947486d79d0f1bfa5b3a8d423dc3bd498eba
 ## Running  News Agent
 ``` python NewsAgent/news_analyst_agent.py ```
 
+Example output:
+<img width="1243" alt="Screenshot 2025-05-13 at 12 04 11 AM" src="https://github.com/user-attachments/assets/050ed5cd-b74b-43b4-9d17-45d942bc7fa2" />
+
+
+
 ## Reference
 Build on top of :
 [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading https://aclanthology.org/2024.emnlp-main.63.pdf
