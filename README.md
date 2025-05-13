@@ -3,6 +3,7 @@
 The final project for CS521: crypto agents
 
 - Rohan Vanjani (vanjani3)
+- Jianping Li (jli199)
 
 # Data Collection Instructions
 
