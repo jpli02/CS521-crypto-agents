@@ -2,9 +2,24 @@
 
 The final project for CS521: crypto agents
 
+Contributions:
+
 - Rohan Vanjani (vanjani3)
+  * Worked on Realtime Data collection
+- Labdhi Jain (ljain2)
+  * Worked on unning the CryptoTrade agent, specifically using OpenAI GPT3.5 Turbo to analyze quantitative data. 
+  * Created a news analyzer agent, which 
+    * fetches news from NewsAPI and CryptoPanic
+    * Uses NLTK's VADER sentiment analyzer, enhanced with crypto-specific terminology
+    * Calculates sentiment scores for different cryptocurrencies
+    * Produces BUY/SELL/HOLD signals based on sentiment thresholds
+    * Implements cooldown periods to prevent signal spam
+    * Creates summaries of the most important news for specific currencies
+    * Provides context for the generated signals
 - Jianping Li (jli199)
-- 
+  * Worked on CryptoTrade
+
+
 ## Requirements
 We list main requirements of this repository below. 
 
@@ -39,11 +54,23 @@ python3 news_fetcher.py --coin_id <token_name>
 ```
 
 This outputs a file `./data/coingecko/<TOKEN>-<DATE>_articles.json`
-
+# CryptoTrade
 ## Running CryptoTrade
   ``` 
   ./run_agent.sh
   ```
+# NewsAgent
+
+## Setting up News Agent
+Set a `.env` file with the following values in the NewsAgent diretory:
+
+``` 
+NEWSAPI_KEY=02dda15edbdf48428608819046424a83
+CRYPTOPANIC_KEY=9b8c947486d79d0f1bfa5b3a8d423dc3bd498eba 
+```
+
+## Running  News Agent
+``` python NewsAgent/news_analyst_agent.py ```
 
 ## Reference
 Build on top of :
