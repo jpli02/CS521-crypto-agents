@@ -18,7 +18,8 @@ Contributions:
     * Provides context for the generated signals
 - Jianping Li (jli199)
   * Worked on CryptoTrade
-
+- Haodong Song (hs38)
+  * Contributed to initial brainstorming and high-level design discussions; tested on CryptoTrade functions
 
 ## Requirements
 We list main requirements of this repository below. 
