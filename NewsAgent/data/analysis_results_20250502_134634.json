@@ -1,0 +1,49 @@
+{
+    "timestamp": "2025-05-02 13:46:34",
+    "articles_analyzed": 0,
+    "sentiment_scores": {
+        "BTC": {
+            "compound": 0,
+            "pos": 0,
+            "neg": 0,
+            "neu": 0,
+            "count": 0
+        },
+        "ETH": {
+            "compound": 0,
+            "pos": 0,
+            "neg": 0,
+            "neu": 0,
+            "count": 0
+        },
+        "SOL": {
+            "compound": 0,
+            "pos": 0,
+            "neg": 0,
+            "neu": 0,
+            "count": 0
+        },
+        "XRP": {
+            "compound": 0,
+            "pos": 0,
+            "neg": 0,
+            "neu": 0,
+            "count": 0
+        },
+        "ADA": {
+            "compound": 0,
+            "pos": 0,
+            "neg": 0,
+            "neu": 0,
+            "count": 0
+        }
+    },
+    "trading_signals": {
+        "BTC": "HOLD (no recent news)",
+        "ETH": "HOLD (no recent news)",
+        "SOL": "HOLD (no recent news)",
+        "XRP": "HOLD (no recent news)",
+        "ADA": "HOLD (no recent news)"
+    },
+    "news_summary": "No recent news articles found."
+}

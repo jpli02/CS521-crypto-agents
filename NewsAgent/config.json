@@ -1,0 +1,19 @@
+{
+    "api_keys": {
+        "newsapi": "02dda15edbdf48428608819046424a83",
+        "cryptopanic": "9b8c947486d79d0f1bfa5b3a8d423dc3bd498eba"
+    },
+    "news_sources": [
+        "cryptopanic",
+        "newsapi"
+    ],
+    "sentiment_threshold": 0.2,
+    "signal_cooldown_hours": 12,
+    "target_currencies": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP",
+        "ADA"
+    ]
+}

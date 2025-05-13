@@ -1,0 +1,52 @@
+{
+    "BTC": [
+        {
+            "signal": "BUY",
+            "sentiment_score": 0.35499259259259264,
+            "timestamp": "2025-05-02 13:48:40"
+        }
+    ],
+    "ETH": [
+        {
+            "signal": "BUY",
+            "sentiment_score": 0.3588720930232559,
+            "timestamp": "2025-05-02 13:48:40"
+        }
+    ],
+    "SOL": [
+        {
+            "signal": "BUY",
+            "sentiment_score": 0.4782824999999999,
+            "timestamp": "2025-05-02 13:48:40"
+        },
+        {
+            "signal": "SELL",
+            "sentiment_score": -0.28678974358974363,
+            "timestamp": "2025-05-08 22:53:56"
+        }
+    ],
+    "XRP": [
+        {
+            "signal": "BUY",
+            "sentiment_score": 0.44562368421052634,
+            "timestamp": "2025-05-02 13:48:40"
+        },
+        {
+            "signal": "SELL",
+            "sentiment_score": -0.31084651162790705,
+            "timestamp": "2025-05-08 22:53:56"
+        }
+    ],
+    "ADA": [
+        {
+            "signal": "BUY",
+            "sentiment_score": 0.4642388888888889,
+            "timestamp": "2025-05-02 13:48:40"
+        },
+        {
+            "signal": "SELL",
+            "sentiment_score": -0.30466842105263164,
+            "timestamp": "2025-05-08 22:53:56"
+        }
+    ]
+}

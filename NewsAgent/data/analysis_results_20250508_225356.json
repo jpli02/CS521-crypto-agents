@@ -1,0 +1,49 @@
+{
+    "timestamp": "2025-05-08 22:53:56",
+    "articles_analyzed": 119,
+    "sentiment_scores": {
+        "BTC": {
+            "compound": -0.12809333333333334,
+            "pos": 0.06846666666666666,
+            "neg": 0.09403333333333336,
+            "neu": 0.8375333333333331,
+            "count": 60
+        },
+        "ETH": {
+            "compound": -0.1906883720930233,
+            "pos": 0.09313953488372093,
+            "neg": 0.10634883720930231,
+            "neu": 0.8005581395348838,
+            "count": 43
+        },
+        "SOL": {
+            "compound": -0.28678974358974363,
+            "pos": 0.05287179487179488,
+            "neg": 0.1261025641025641,
+            "neu": 0.8210769230769233,
+            "count": 39
+        },
+        "XRP": {
+            "compound": -0.31084651162790705,
+            "pos": 0.05872093023255814,
+            "neg": 0.13269767441860467,
+            "neu": 0.8086511627906978,
+            "count": 43
+        },
+        "ADA": {
+            "compound": -0.30466842105263164,
+            "pos": 0.053789473684210526,
+            "neg": 0.13060526315789472,
+            "neu": 0.8156315789473684,
+            "count": 38
+        }
+    },
+    "trading_signals": {
+        "BTC": "HOLD",
+        "ETH": "HOLD",
+        "SOL": "SELL",
+        "XRP": "SELL",
+        "ADA": "SELL"
+    },
+    "news_summary": "1. Ryan Reynolds\u2019 MNTN Weighs IPO Launch Soon as Next Week - Biztoc.com (2025-05-08 23:53)\n2. Fiera\u2019s Desjardins to Step Down as CEO, Succeeded by Menard - Biztoc.com (2025-05-08 23:53)\n3. Meta in talks to deploy stablecoins three years after giving up on landmark crypto project - Biztoc.com (2025-05-08 23:53)\n4. Should You Buy the Post-Earnings Dip in This AI Dividend Stock? - Biztoc.com (2025-05-08 23:53)\n5. China Agreed to U.S. Tariff Talks but Is Likely to Play Hardball - Biztoc.com (2025-05-08 23:53)"
+}
