@@ -65,8 +65,8 @@ This outputs a file `./data/coingecko/<TOKEN>-<DATE>_articles.json`
 Set a `.env` file with the following values in the NewsAgent diretory:
 
 ``` 
-NEWSAPI_KEY=02dda15edbdf48428608819046424a83
-CRYPTOPANIC_KEY=9b8c947486d79d0f1bfa5b3a8d423dc3bd498eba 
+NEWSAPI_KEY=<your_news_api_key>
+CRYPTOPANIC_KEY=<your_crypto_panic_key>
 ```
 
 ## Running  News Agent
