@@ -20,7 +20,7 @@ Contributions:
     - Once the list is generated, this data is then written to a json file in the `data/rss/` directory
 
 - Labdhi Jain (ljain2)
-  - Worked on unning the CryptoTrade agent, specifically using OpenAI GPT3.5 Turbo to analyze quantitative data.
+  - Worked on running the CryptoTrade agent, specifically using OpenAI GPT3.5 Turbo to analyze quantitative data.
   - Created a news analyzer agent, which
     - fetches news from NewsAPI and CryptoPanic
     - Uses NLTK's VADER sentiment analyzer, enhanced with crypto-specific terminology
@@ -30,7 +30,13 @@ Contributions:
     - Creates summaries of the most important news for specific currencies
     - Provides context for the generated signals
 - Jianping Li (jli199)
-  - Worked on CryptoTrade
+  - Worked on CryptoTrade agent framework, using Openai gpt-4o-mini.
+  - Developed and tested on different agents for portfolio management:
+    - Implement pytorch code and evaluation metrics
+  - Developed and tested on different market:
+    - different crypto concurrency: BTC, ETH, SOL
+    - different market trends: bear, bull, neutral
+    - time window: 3 days to 3 months
 - Haodong Song (hs38)
   - Contributed to initial brainstorming and high-level design discussions; tested on CryptoTrade functions
 
