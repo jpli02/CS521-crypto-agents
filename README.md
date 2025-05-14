@@ -40,11 +40,11 @@ Contributions:
   - Managed team meetings and discussions
 - Haodong Song (hs38)
   - Requirement Gathering & Specification
-    – Contributed to brainstorming sessions to translate project goals into technical requirements and user stories 
+    - Contributed to brainstorming sessions to translate project goals into technical requirements and user stories 
   - Testing & Quality Assurance
-    – Developed and executed unit- and integration-test suites for the CryptoTrade core functions using pytest
-    – Designed mock data fixtures for price feeds and sentiment scores to validate agent logic under edge cases
-    – Performed code reviews in GitHub, provided suggestions for robustness and clarity
+    - Developed and executed unit- and integration-test suites for the CryptoTrade core functions using pytest
+    - Designed mock data fixtures for price feeds and sentiment scores to validate agent logic under edge cases
+    - Performed code reviews in GitHub, provided suggestions for robustness and clarity
 
 ## Requirements
 
