@@ -37,6 +37,7 @@ Contributions:
     - different crypto concurrency: BTC, ETH, SOL
     - different market trends: bear, bull, neutral
     - time window: 3 days to 3 months
+  - Managed team meetings and discussions
 - Haodong Song (hs38)
   - Contributed to initial brainstorming and high-level design discussions; tested on CryptoTrade functions
 
